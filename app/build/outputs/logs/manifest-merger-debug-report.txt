@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/d477e3043c188278b38c829d1afa382f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/9ba9618f4fece22b263ee9f26a5adbcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/8a667a795b8849152f224cfe850b3837/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/62b839c9b9f46546aebfd1fb4d8ae87f/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/10386de13860a92ca01dcf8112836884/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/e90739fa1f6469988bfd642e4ae70d1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/36097191313a0fbbc6c5a66ec590b1bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/d0160af47c6fb15005c34155e2e5767f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b76207e1828bce6be0376224a855ddc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/e2f4de1dded5b544043873374ff352b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/721e7537e0fe283931f3e5db1759393d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/fbed794f843c117ace82fbcec681be69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/17af3c254447f74a309f88b7eba6920e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/18a97fc0d62f51c9532f02432b8ef388/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6757cfa639a39472ad217d80acf18ad7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c5ba1cd468b59d2285de3d0e90e23457/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/bf42d4d5b31932a0dda3531c9f71131f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/746a21f814e2c666e5f57b49dee9be6f/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:3:11-50
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:6:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:7:5-59
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:7:19-57
+uses-feature#0x00030000
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:8:5-10:35
+	android:glEsVersion
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:9:9-41
+	android:required
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:10:9-32
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:15:5-31:19
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/62b839c9b9f46546aebfd1fb4d8ae87f/AndroidManifest.xml:9:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/62b839c9b9f46546aebfd1fb4d8ae87f/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:16:9-38
+activity#com.example.ysh.myapplication.activity.MainActivity
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:22:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.example.ysh.myapplication.activity.CameraGLSurfaceActivity
+ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:29:9-30:51
+	android:screenOrientation
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml:29:19-67
+uses-sdk
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/d477e3043c188278b38c829d1afa382f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/d477e3043c188278b38c829d1afa382f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/9ba9618f4fece22b263ee9f26a5adbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/9ba9618f4fece22b263ee9f26a5adbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/8a667a795b8849152f224cfe850b3837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/8a667a795b8849152f224cfe850b3837/AndroidManifest.xml:20:5-44
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/62b839c9b9f46546aebfd1fb4d8ae87f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/mac/.gradle/caches/transforms-2/files-2.1/62b839c9b9f46546aebfd1fb4d8ae87f/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/10386de13860a92ca01dcf8112836884/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/10386de13860a92ca01dcf8112836884/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/e90739fa1f6469988bfd642e4ae70d1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/e90739fa1f6469988bfd642e4ae70d1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/36097191313a0fbbc6c5a66ec590b1bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/36097191313a0fbbc6c5a66ec590b1bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/d0160af47c6fb15005c34155e2e5767f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/d0160af47c6fb15005c34155e2e5767f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b76207e1828bce6be0376224a855ddc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/b76207e1828bce6be0376224a855ddc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/e2f4de1dded5b544043873374ff352b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/e2f4de1dded5b544043873374ff352b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/721e7537e0fe283931f3e5db1759393d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/721e7537e0fe283931f3e5db1759393d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/fbed794f843c117ace82fbcec681be69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/fbed794f843c117ace82fbcec681be69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/17af3c254447f74a309f88b7eba6920e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/17af3c254447f74a309f88b7eba6920e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/18a97fc0d62f51c9532f02432b8ef388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mac/.gradle/caches/transforms-2/files-2.1/18a97fc0d62f51c9532f02432b8ef388/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6757cfa639a39472ad217d80acf18ad7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/6757cfa639a39472ad217d80acf18ad7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c5ba1cd468b59d2285de3d0e90e23457/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/c5ba1cd468b59d2285de3d0e90e23457/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/bf42d4d5b31932a0dda3531c9f71131f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/bf42d4d5b31932a0dda3531c9f71131f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/746a21f814e2c666e5f57b49dee9be6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mac/.gradle/caches/transforms-2/files-2.1/746a21f814e2c666e5f57b49dee9be6f/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/CamerDemo/OpenGL_CameraDemo/app/src/main/AndroidManifest.xml
